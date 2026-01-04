@@ -43,5 +43,4 @@
 - 💬 **Ask me about:** My learning path and the logic behind my early projects.
 
 Favorite Quote
-[AC](https://img.shields.io/badge/ASSASSIN'S_CREED-%23000000.svg?style=for-the-badge&logo=assassinscreed&logoColor=white)
 > *"Nothing is true, everything is permitted."* >
