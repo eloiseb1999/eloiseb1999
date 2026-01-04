@@ -43,6 +43,6 @@
 - 💬 **Ask me about:** My learning path and the logic behind my early projects.
 
 Favorite Quote
-<img src="http://googleusercontent.com/image_collection/image_retrieval/12765879210989975821_0" width="30" height="30" align="left" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Assassin%27s_Creed_Logo.svg/512px-Assassin%27s_Creed_Logo.svg.png" width="30" height="30" align="left" style="margin-right: 10px;" />
 
 > *"Nothing is true, everything is permitted."* >
