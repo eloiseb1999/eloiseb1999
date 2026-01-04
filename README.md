@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Information Systems Student** pursuing a degree in Analysis and Systems Development at Uninter (Expected 2027);
+- 🎓 **Information Systems Student** pursuing a degree in Analysis and Systems Development;
 - 🛡️ Also studying **Cybersecurity Management and Defense** to build a secure coding foundation;
 - 💻 Currently focused on mastering programming logic, clean code, and full-stack architecture;
 - 🎨 Exploring **UI/UX Design** and prototyping with Figma and Adobe tools;
