@@ -33,11 +33,6 @@
 
 ---
 
-## 📂 Featured Project
-- **[Financial Manager]:** A Python-based terminal application focused on modularity, clean code, and persistent data storage with JSON.
-
----
-
 ## 📊 Current Focus
 - 🔭 **Looking for my first opportunity** (Internship or Junior role) to apply my academic knowledge.
 - 🌱 **Learning:** Data Structures, Algorithms, and Network Security.
