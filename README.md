@@ -3,7 +3,6 @@
 ## 🚀 About Me
 
 - 🎓 **Systems Analysis and Development Student**;
-- 🛡️ **Cybersecurity Management and Defense Student**;
 - 💼 **Technical Administration Student**;
 - 🎨 **Graphic Design** Professional Course completed;
 - 📍 Based in São Paulo, Brazil.
