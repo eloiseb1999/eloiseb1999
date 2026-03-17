@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eloise B.
+# 👋 Hi, I'm Eloise.
 
 ## 🚀 About Me
 
